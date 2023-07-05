@@ -1,4 +1,4 @@
-FROM golang:1.14.7
+FROM golang:bookworm
 
 ARG CHANNEL=nightly
 ARG URL=
