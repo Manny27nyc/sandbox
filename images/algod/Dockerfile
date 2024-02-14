@@ -1,4 +1,4 @@
-FROM golang:1.14.7
+FROM golang:1.22
 
 ARG CHANNEL=nightly
 ARG URL=
